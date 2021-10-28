@@ -1,0 +1,11 @@
+Model Information:
+* title:	Crewmate [Among Us]
+* source:	https://sketchfab.com/3d-models/crewmate-among-us-83abf847602f495eb37c304c4b21c9d5
+* author:	ThatAverageJoe (https://sketchfab.com/joewood0203)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Crewmate [Among Us]" (https://sketchfab.com/3d-models/crewmate-among-us-83abf847602f495eb37c304c4b21c9d5) by ThatAverageJoe (https://sketchfab.com/joewood0203) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
