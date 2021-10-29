@@ -1,0 +1,11 @@
+Model Information:
+* title:	Who Is The Impostor? - Among Us
+* source:	https://sketchfab.com/3d-models/who-is-the-impostor-among-us-0d2d26bf3ec34ba6b20ab9234f78f073
+* author:	Naudaff3D (https://sketchfab.com/Naudaff3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Who Is The Impostor? - Among Us" (https://sketchfab.com/3d-models/who-is-the-impostor-among-us-0d2d26bf3ec34ba6b20ab9234f78f073) by Naudaff3D (https://sketchfab.com/Naudaff3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
